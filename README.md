@@ -2,7 +2,7 @@
 A Restaurant Management System using MySQL to manage customers, menu items, orders, and sales. Tracks customer info, menu categories, order details, and total billing, with reports for top-selling items, customer spending, and daily sales. Demonstrates relational DB and SQL skills.
 Key Features:
 
-Customer Management: Stores customer information including name, phone number, and email.
+       Customer Management: Stores customer information including name, phone number, and email.
 
 Menu Management: Stores menu items with their price and category (Main Course, Snack, Beverage, Dessert).
 
@@ -14,21 +14,21 @@ Sales Calculations: Automatically calculates the total amount per order and over
 
 Reports & Analytics:
 
-Customer-wise total spending
+1)Customer-wise total spending
 
-Top-selling items
+2)Top-selling items
 
-Daily sales report
+3)Daily sales report
 
-Detailed order breakdown with item, quantity, category, and total price per item
+4)Detailed order breakdown with item, quantity, category, and total price per item
 
 Technologies Used:
 
-Database: MySQL / MySQL Workbench
+*Database: MySQL / MySQL Workbench
 
-SQL Concepts: CREATE, INSERT, UPDATE, JOIN, GROUP BY, SUM, CASE statements
+*SQL Concepts: CREATE, INSERT, UPDATE, JOIN, GROUP BY, SUM, CASE statements
 
-Data Management: Relational tables, primary & foreign keys, aggregate queries
+*Data Management: Relational tables, primary & foreign keys, aggregate queries
 
 Purpose:
-This project helps in understanding how relational databases are used in real-world scenarios to manage a business like a restaurant. It is suitable for learning database design, SQL queries, and reporting
+  This project helps in understanding how relational databases are used in real-world scenarios to manage a business like a restaurant. It is suitable for learning database design, SQL queries, and reporting
